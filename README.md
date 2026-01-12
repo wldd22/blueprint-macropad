@@ -1,7 +1,7 @@
 # Kevin's Custom Macropad
 A custom macropad with remappable numpad keys. Has 0-9 plus modifiers. Made for [Hackclub's Blueprint](https://blueprint.hackclub.com/)
 
-![CAD Full](images/CAD Full.png)
+![CAD Full](images/CAD_Full.png)
 
 ## Details
 Made with KiCAD and Fusion360.
@@ -15,12 +15,12 @@ This was my first hardware project involving CAD, so I had to learn KiCAD and Fu
 ![Schematic](images/Schematic.png)
 
 ### PCB
-![PCB Routing](images/PCB Routing.png)
-![PCB Render](images/PCB Render.png)
+![PCB Routing](images/PCB_Routing.png)
+![PCB Render](images/PCB_Render.png)
 
 ### Case
-![Case Top](images/CAD Top.png)
-![Case Bottom](images/CAD Bottom.png)
+![Case Top](images/CAD_Top.png)
+![Case Bottom](images/CAD_Bottom.png)
 
 ## BOM
 
