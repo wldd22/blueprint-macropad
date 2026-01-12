@@ -28,3 +28,5 @@ This was my first hardware project involving CAD, so I had to learn KiCAD and Fu
 - 16x Cherry MX Switches
 - 16x Blank White DSA Keycaps
 - 3x SK6812 MINI-E LEDs
+- 4x M3x16 Bolt
+- 4x M3 Heatset
