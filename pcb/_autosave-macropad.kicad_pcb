@@ -4991,7 +4991,7 @@
 	)
 	(gr_rect
 		(start 108.0475 38.255)
-		(end 171.1475 137.855)
+		(end 171.0475 137.855)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -5000,8 +5000,8 @@
 		(layer "Edge.Cuts")
 		(uuid "1b32b24a-2c9c-4f4a-a0c4-794657e6f614")
 	)
-	(gr_text "Kevin's Custom Macropad V1"
-		(at 147 40.9 0)
+	(gr_text "Kevin's Custom Numpad V1"
+		(at 147.9 40.9 0)
 		(layer "F.SilkS")
 		(uuid "1c10db26-6eb6-4e38-b873-66827c79b95d")
 		(effects
