@@ -5,7 +5,7 @@ A custom macropad with remappable numpad keys. Has 0-9 plus modifiers. Made for 
 ![CAD Full Expanded](images/CAD_Full_Expanded.png)
 
 ## Details
-PCB made with KiCAD
+PCB made with KiCAD \
 Case made with Fusion360
 
 ## About
