@@ -7,7 +7,7 @@ A custom macropad with remappable numpad keys. Has 0-9 plus modifiers. Made for 
 Made with KiCAD and Fusion360.
 
 ## About
-This was my first hardware project involving CAD, so I had to learn KiCAD and Fusion from scratch to design the board and case.
+This was my first hardware project involving CAD. I've only ever worked on breadboards with an Arduino before. So, I had to learn KiCAD and Fusion from scratch to design the board and case.
 
 ## Images
 
