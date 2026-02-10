@@ -8434,8 +8434,8 @@
 		(layer "Edge.Cuts")
 		(uuid "1b32b24a-2c9c-4f4a-a0c4-794657e6f614")
 	)
-	(gr_text "Kevin's Custom Numpad V1"
-		(at 145.05 50.51 0)
+	(gr_text "Kevin's Macropad V1"
+		(at 166.9195 49.167 0)
 		(layer "F.SilkS")
 		(uuid "1c10db26-6eb6-4e38-b873-66827c79b95d")
 		(effects
@@ -8443,7 +8443,7 @@
 				(size 1 1)
 				(thickness 0.1)
 			)
-			(justify left bottom)
+			(justify right top)
 		)
 	)
 	(gr_text "XIAO HERE"
