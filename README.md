@@ -1,8 +1,7 @@
 # Custom Macropad
 A custom macropad with remappable numpad keys. Has 0-9 plus modifiers. Made for [Hackclub's Blueprint](https://blueprint.hackclub.com/)
 
-![CAD Full](images/CAD_Full.png)
-![CAD Full Expanded](images/CAD_Full_Expanded.png)
+![Build](images/Build.jpeg)
 
 ## Details
 PCB made using KiCAD \
@@ -13,6 +12,10 @@ Firmware made using KMK
 This was my first hardware project involving CAD. I've only ever worked on breadboards with an Arduino before. So, I had to learn KiCAD and Fusion from scratch to design the board and case.
 
 ## Images
+
+### CAD
+![CAD Full](images/CAD_Full.png)
+![CAD Full Expanded](images/CAD_Full_Expanded.png)
 
 ### Schematic
 ![Schematic](images/Schematic.png)
