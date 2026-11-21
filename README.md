@@ -1,5 +1,5 @@
 # Custom Macropad
-A custom macropad with remappable numpad keys. Has 0-9 plus modifiers. Made for [Hackclub's Blueprint](https://blueprint.hackclub.com/)
+A custom macropad with remappable numpad keys. Has 0-9 plus modifiers. Made for [Hack Club's Blueprint](https://blueprint.hackclub.com/)
 
 ![Build](images/Build.jpeg)
 
